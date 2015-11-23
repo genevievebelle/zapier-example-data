@@ -1,0 +1,7 @@
+[{"from": "2012/01/01 12:00:00 +0000", "to": "2012/01/01 14:00:00 +0000",
+  "title": "Example Booking", "price": 10.0, "currency": "EUR",
+  "tax_rate": "20.0", "resource": {"name": "Example Room", "id": "123"},
+  "membership": {"id": "234-96-93675", "name": "John Doe"},
+  "url": "https://try.cobot.me/api/bookings/20723075", "id": "20723075",
+  "comments": "Just an example"
+}]
