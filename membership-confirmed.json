@@ -31,7 +31,7 @@
       {
         "name": "locker",
         "price_in_cents": 500,
-        "tax_rate": "19.0",
+        "tax_rate": "19.0"
       }
     ],
     "time_passes": [
