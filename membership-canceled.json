@@ -25,7 +25,7 @@
     "cycle_duration": 1,
     "currency": "EUR",
     "cancellation_period": 14,
-    "canceled_to": "2010/03/01",
+    "canceled_to": "2015/03/01",
     "total_price_per_cycle": "105.00",
     "extras": [
       {
@@ -58,7 +58,7 @@
     "name": "Cash",
     "automated": false
   },
-  "confirmed_at": "2010/01/01 12:00:00 +0000",
-  "canceled_to": "2010/03/01",
-  "next_invoice_at": "2010/02/01"
+  "confirmed_at": "2015/01/01 12:00:00 +0000",
+  "canceled_to": "2015/03/01",
+  "next_invoice_at": "2015/02/01"
 }]
