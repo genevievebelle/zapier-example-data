@@ -58,7 +58,7 @@
     "name": "Cash",
     "automated": false
   },
-  "confirmed_at": "2010/01/01 12:00:00 +0000",
+  "confirmed_at": "2015/01/01 12:00:00 +0000",
   "canceled_to": null,
-  "next_invoice_at": "2010/02/01"
+  "next_invoice_at": "2015/02/01"
 }]
