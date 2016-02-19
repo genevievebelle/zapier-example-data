@@ -1,11 +1,11 @@
 [{
-  "id": "0c4f75fa14924423810d6f12aeb56fbb",
+  "id": "0c4f75fa14924433810d6f12aeb56fbb",
   "name": "johnny doe",
-  "email":"johnny@example.com",
+  "email":"example@cobot.me",
   "phone": "12345",
   "user": {
     "id": "1d4d33ea2501579s146a6f12aeb56fbb",
-    "email": "johnny@example.com"
+    "email": "jexample@cobot.me"
   },
   "picture": "http://cobot.me/example.jpg",
   "address": {
@@ -14,7 +14,7 @@
     "full_address": "Steet\n12345 Berlin",
     "country": "Germany"
   },
-  "billing_emails": ["john@example.com"],
+  "billing_emails": ["example+john@cobot.me"],
   "charge_taxes": true,
   "customer_number": "10000",
   "plan": {
