@@ -11,7 +11,7 @@
   "address": {
     "company": "Example Corp",
     "name": "johnny doe",
-    "full_address": "Steet\n12345 Berlin"
+    "full_address": "Steet\n12345 Berlin\nGermany"
   },
   "billing_emails": ["john+example@cobot.me"],
   "charge_taxes": true,
