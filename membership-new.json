@@ -1,0 +1,63 @@
+[{
+  "id": "0c4f75fa14924433810d6f12aeb56fba",
+  "name": "johnny doe",
+  "email":"example@cobot.me",
+  "phone": "12345",
+  "user": {
+    "id": "1d4d33ea2501579s146a6f12aeb56fbb",
+    "email": "jexample@cobot.me"
+  },
+  "picture": "http://cobot.me/example.jpg",
+  "address": {
+    "company": "Example Corp",
+    "name": "johnny doe",
+    "full_address": "Steet\n12345 Berlin\nGermany"
+  },
+  "billing_emails": [],
+  "charge_taxes": true,
+  "customer_number": "10000",
+  "plan": {
+    "name": "Basic Example Plan",
+    "description": "A Plan to Test",
+    "price_per_cycle_in_cents": 10000,
+    "tax_rate": "19.0",
+    "cycle_duration": 1,
+    "currency": "EUR",
+    "cancellation_period": 14,
+    "canceled_to": null,
+    "total_price_per_cycle": "105.00",
+    "extras": [
+      {
+        "name": "locker",
+        "price_in_cents": 500,
+        "tax_rate": "19.0"
+      }
+    ],
+    "time_passes": [
+      {
+        "id": "0",
+        "name": "Example Day Pass",
+        "price_in_cents": 1000,
+        "currency": "EUR",
+        "timespans": "4-3:59",
+        "included_per_timespan": 7,
+        "included_timespan": "month",
+        "discounts": [
+          {
+            "number_of_passes": 10,
+            "price_in_cents": 10000,
+            "currency": "EUR"
+          }
+        ]
+      }
+    ]
+  },
+  "upcoming_plan": null,
+  "payment_method": null,
+  "confirmed_at": null,
+  "requested_starts_at": "2015/01/01",
+  "starts_at": null,
+  "joined_at": null,
+  "canceled_to": null,
+  "next_invoice_at": null
+}]
