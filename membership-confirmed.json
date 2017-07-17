@@ -58,7 +58,7 @@
     "automated": false
   },
   "confirmed_at": "2015/01/01 12:00:00 +0000",
-  "starts_at": nil,
+  "starts_at": null,
   "joined_at": "2015/01/01",
   "canceled_to": null,
   "next_invoice_at": "2015/02/01"
