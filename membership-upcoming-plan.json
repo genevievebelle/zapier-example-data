@@ -24,7 +24,7 @@
     "cycle_duration": 1,
     "currency": "EUR",
     "cancellation_period": 14,
-    "canceled_to": null,
+    "canceled_to": "2018/01/01 12:00:00 +0000",
     "total_price_per_cycle": "105.00",
     "extras": [
       {
